@@ -1,4 +1,4 @@
 
 class main {
-  println("hello chasseur de wow")
+  println("hello 222")
 }
