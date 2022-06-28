@@ -1,0 +1,22 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\target\scala-2.12\classes ...
+[error] D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\src\main\scala\main\main.scala:9:13: recursive value X needs type
+[error]     val X = X
+[error]             ^
+[error] D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\src\main\scala\main\main.scala:10:58: type mismatch;
+[error]  found   : Calculator.Function.Number
+[error]  required: Double
+[error]     println("final : "+ ShowExpression(eval(Add(n4, n2))(n4)))
+[error]                                                          ^
+[error] D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\src\main\scala\main\main.scala:10:44: type mismatch;
+[error]  found   : Double
+[error]  required: Calculator.Expr
+[error]     println("final : "+ ShowExpression(eval(Add(n4, n2))(n4)))
+[error]                                            ^
+[error] three errors found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 0 s, completed 28 juin 2022 à 13:15:26
+[debug] > Exec(idea-shell, None, None)
