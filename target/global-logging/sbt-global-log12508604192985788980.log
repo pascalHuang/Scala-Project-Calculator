@@ -1,0 +1,11 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources to D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\target\scala-2.12\classes ...
+[error] D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\src\main\scala\simpleGUI\SimpleGUI.scala:37:22: not found: type Canvas
+[error]     val canvas = new Canvas {
+[error]                      ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 2 juil. 2022 à 16:54:16
+[debug] > Exec(idea-shell, None, None)

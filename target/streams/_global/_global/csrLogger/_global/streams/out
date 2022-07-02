@@ -1,4 +1,2 @@
-[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/2.1.1/scala-parser-combinators_2.12-2.1.1-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/3.0.0/scala-swing_2.12-3.0.0-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/2.1.1/scala-parser-combinators_2.12-2.1.1-javadoc.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/3.0.0/scala-swing_2.12-3.0.0-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalafx/scalafx_2.12/8.0.60-R9/scalafx_2.12-8.0.60-R9.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scalafx/scalafx_2.12/8.0.60-R9/scalafx_2.12-8.0.60-R9.pom.sha1

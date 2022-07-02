@@ -1,32 +1,6 @@
 [debug] [zinc] IncrementalCompile -----------
 [debug] IncrementalCompile.incrementalCompile
-[debug] previous = Stamps for: 36 products, 7 sources, 3 libraries
-[debug] current source = Set(${BASE}/src/main/scala/simpleGUI/SimpleGUI.scala, ${BASE}/src/main/scala/main/main.scala, ${BASE}/src/main/scala/Calculator/Function.scala, ${BASE}/src/main/scala/simpleGUI/Dart.scala, ${BASE}/src/main/scala/Calculator/Expr.scala, ${BASE}/src/main/scala/simpleGUI/Canvas.scala, ${BASE}/src/main/scala/Calculator/ExpressionParser.scala)
-[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/main/main.scala), unmodified = ...),Set(),Set(),API Changes: Set())
-[debug] 
-[debug] Initial source changes:
-[debug] 	removed: Set()
-[debug] 	added: Set()
-[debug] 	modified: Set(${BASE}/src/main/scala/main/main.scala)
-[debug] Invalidated products: Set()
-[debug] External API changes: API Changes: Set()
-[debug] Modified binary dependencies: Set()
-[debug] Initial directly invalidated classes: Set(main.Main)
-[debug] Sources indirectly invalidated by:
-[debug] 	product: Set()
-[debug] 	binary dep: Set()
-[debug] 	external source: Set()
-[debug] All initially invalidated classes: Set(main.Main)
-[debug] All initially invalidated sources:Set(${BASE}/src/main/scala/main/main.scala)
-[debug] Initial set of included nodes: main.Main
-[debug] compilation cycle 1
-[info] compiling 1 Scala source to D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\target\scala-2.12\classes ...
-[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.6.0:compile for Scala 2.12.15
-[debug] [zinc] Running cached compiler 6d939492 for Scala compiler version 2.12.15
-[debug] [zinc] The Scala compiler is invoked with:
-[debug] 	-bootclasspath
-[debug] 	C:\Users\miste\.sbt\boot\scala-2.12.15\lib\scala-library.jar
-[debug] 	-classpath
-[debug] 	D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\target\scala-2.12\classes;C:\Users\miste\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.12\2.1.1\scala-parser-combinators_2.12-2.1.1.jar;C:\Users\miste\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-swing_2.12\3.0.0\scala-swing_2.12-3.0.0.jar
-[debug] Compilation failed (CompilerInterface)
-[error] (Compile / compileIncremental) Compilation failed
+[debug] previous = Stamps for: 34 products, 6 sources, 3 libraries
+[debug] current source = Set(${BASE}/src/main/scala/main/main.scala, ${BASE}/src/main/scala/Calculator/Function.scala, ${BASE}/src/main/scala/simpleGUI/FunctionCanvas.scala, ${BASE}/src/main/scala/simpleGUI/GUI.scala, ${BASE}/src/main/scala/Calculator/Expr.scala, ${BASE}/src/main/scala/Calculator/ExpressionParser.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes

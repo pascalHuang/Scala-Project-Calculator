@@ -1,0 +1,18 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\target\scala-2.12\classes ...
+[error] D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\src\main\scala\main\main.scala:9:58: type mismatch;
+[error]  found   : Calculator.Function.Number
+[error]  required: Double
+[error]     println("final : "+ ShowExpression(eval(Add(n4, n2))(n4)))
+[error]                                                          ^
+[error] D:\COURS-EFREI M1\Functional programming with Scala\ScalaProject\src\main\scala\main\main.scala:9:44: type mismatch;
+[error]  found   : Double
+[error]  required: Calculator.Expr
+[error]     println("final : "+ ShowExpression(eval(Add(n4, n2))(n4)))
+[error]                                            ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 29 juin 2022 à 17:37:23
+[debug] > Exec(idea-shell, None, None)
